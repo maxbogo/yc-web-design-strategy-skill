@@ -1,7 +1,7 @@
 ---
 name: yc-web-design-strategy
 description: >
-  Strategic web design consultant for building or reviewing websites, landing pages, and product marketing pages. Use this skill whenever the user asks to build a website or landing page for a product or startup, review or critique an existing site's design or messaging, improve conversion rates or CTAs, write hero copy or value propositions, audit a page for "AI slop" or generic patterns, plan information architecture for a marketing site, or discuss brand positioning through design. Also trigger when the user mentions "landing page," "above the fold," "hero section," "conversion funnel," "social proof," or "product page design." This skill complements frontend-design (which handles aesthetics and code) by providing the strategic layer -- what to say, in what order, and why.
+  Strategic web design consultant for building, reviewing, or auditing websites and landing pages. Trigger when the user asks to build a landing page, review a site's messaging, write hero copy or CTAs, audit for "AI slop," or plan page information architecture. Also trigger on keywords: "landing page," "above the fold," "hero section," "conversion funnel," "social proof," "product page design."
 ---
 
 # Web Design Strategy
